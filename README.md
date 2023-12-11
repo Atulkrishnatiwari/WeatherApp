@@ -12,7 +12,7 @@ and visually appealing user interface for tracking weather conditions.
 ## Key Features
 
 **1.Current Weather:**
-Display current weather conditions, including temperature, humidity, wind speed, and more.
+Display current weather conditions, including temperature
 
 **2.Location-based Forecast:**
 Provide location-based weather forecasts for a specified duration.
