@@ -3,6 +3,7 @@ https://github.com/Atulkrishnatiwari/WeatherApp/assets/151607237/98077330-fafb-4
 
 <img src="https://github.com/Atulkrishnatiwari/WeatherApp/assets/151607237/0dd14b16-36e7-47c3-87ae-284a212c6296" alt="Image 2" width="200">
 <img src="https://github.com/Atulkrishnatiwari/WeatherApp/assets/151607237/1ecd631f-164f-44cf-87eb-0fe926c15c9c" alt="Image 2" width="200">
+<img src="https://github.com/Atulkrishnatiwari/WeatherApp/assets/151607237/8b8f8e3e-6b93-4a06-90f9-f38e2f3346f6" alt="Image 2" width="200">
 
 ## Overview
 The Weather App is designed to provide users with real-time weather information.
