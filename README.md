@@ -21,8 +21,10 @@ Use graphical elements to visually represent weather conditions, enhancing user 
 
 **4.User-Friendly Design:**
 Implement an intuitive and user-friendly design for easy navigation and information retrieval.
+Also we build this app depending on the mode when we will change night mode it will change user Interface also
 
-
+**5.Weather Condition:**
+When weather will change automaticaly it's Image will be changed depending on the weather condition
 ## Technology Used
 
 - **Swift:** The primary programming language used for this project.
